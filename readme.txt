@@ -1,0 +1,1 @@
+must set "MonitorType=0" in ShConfig.ini.

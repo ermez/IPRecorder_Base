@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: IPRecorder - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1AB.tmp" with contents
+[
+shp_a3.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/IPRRecorder.pdb" /debug /machine:I386 /out:"D:\IPR\0911IPRecorder4\IPRRecorder.exe" 
+.\Release\ExitPwdDlg.obj
+.\Release\IPRecorder.obj
+.\Release\IPRecorderDlg.obj
+.\Release\StdAfx.obj
+.\Release\IPRecorder.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1AB.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+IPRRecorder.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
